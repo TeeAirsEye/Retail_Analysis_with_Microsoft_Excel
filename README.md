@@ -10,8 +10,7 @@ Here's a comprehensive and professional README file written in Markdown language
 
 Welcome to the **Interactive Sales Dashboard** project. This dashboard provides an in-depth analysis of sales performance across various segments, products, and countries. With an emphasis on user interactivity, it allows stakeholders to explore data dynamically, offering insights into revenue generation, profit margins, unit sales, and manufacturing costs. The data spans multiple years and covers various geographical regions, providing a global perspective on sales activities.
 
-[View the Image on Google Drive](https://drive.google.com/file/d/1Ceis9vD1ZCHd3FBb955xUQpnXk_C9Lpd/view?usp=sharing)
-
+![Interactive Sales Dashboard](https://drive.google.com/uc?id=1Ceis9vD1ZCHd3FBb955xUQpnXk_C9Lpd)
 
 ## Project Structure
 
